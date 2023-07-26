@@ -1,2 +1,5 @@
+cd GG
 
-web: php index.php
+screen -S GG
+
+php bot.php
