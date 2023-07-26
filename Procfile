@@ -1,5 +1,5 @@
-cd GG
+cd Procfile
 
-screen -S GG
+screen -S Procfile
 
 php bot.php
