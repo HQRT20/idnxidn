@@ -3,7 +3,7 @@ date_default_timezone_set("Asia/Baghdad");
 error_reporting(0);
 require("conf.php"); 
 if (!file_exists("token")) {
-$token =  readline("Enter Token => 6540898730:AAGp17yJNwFXmhmNhRHEvBkyptzG-DbeWR4");
+$token =  readline("Enter Token => 6594665064:AAFKNuMQwgO2WgYgDvpF0RgjF4Teo1DMfuA
 file_put_contents("token", $token);
 }
 if (!file_exists("ID")) {
